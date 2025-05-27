@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-2-1300201-20250512",
+        "level": "Low",
+        "word": "미온적",
+        "definition": "적극적이지 않고 열의나 활기가 없는 상태를 의미합니다.",
+        "sentence": "회사의 미온적인 태도가 소비자들의 불만을 초래했습니다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-2-1300201-20250512",
+        "level": "Low",
+        "word": "귀책사유",
+        "definition": "어떤 사건이나 문제에 대해 책임질 이유를 의미합니다.",
+        "sentence": "사용자의 귀책사유가 없을 경우 위약금이 면제됩니다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-2-1300201-20250512",
+        "level": "Low",
+        "word": "신중하게",
+        "definition": "조심스럽고 깊이 생각하여 행동하는 것을 의미합니다.",
+        "sentence": "이 문제를 해결하기 위해 신중하게 접근하고 있습니다."
+    }
+]

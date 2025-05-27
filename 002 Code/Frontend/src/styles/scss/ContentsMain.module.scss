@@ -1,0 +1,24 @@
+@use "/src/styles" as style;
+
+.wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.wrapper {
+  @include style.flexColCenter;
+  height: 100vh;
+  // width: 90dvw;
+}
+
+.scrollWrapper {
+  flex: 1;
+  overflow-y: scroll;
+  -ms-overflow-style: none; /* 인터넷 익스플로러 */
+  scrollbar-width: none; /* 파이어폭스 */
+
+  margin-bottom: 76px;
+}
+
+.contentWrapper {
+  @include style.flexColCenter;
+}

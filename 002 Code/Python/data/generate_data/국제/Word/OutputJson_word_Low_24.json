@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-4-1100901-20250512",
+        "level": "Low",
+        "word": "발칵 뒤집혔다",
+        "definition": "매우 놀라거나 큰 충격을 받아 큰 소란이 일어나는 상태가 되다.",
+        "sentence": "그 소식에 회사 전체가 발칵 뒤집혔다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-4-1100901-20250512",
+        "level": "Low",
+        "word": "체결식",
+        "definition": "월, 협정, 계약 등을 공식적으로 맺는 의식이나 행사.",
+        "sentence": "새로운 무역 협정 체결식이 다음 주에 예정되어 있다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-4-1100901-20250512",
+        "level": "Low",
+        "word": "호락호락하지 않은",
+        "definition": "쉽게 넘어가거나 부드럽게 다루어지지 않는, 완고한.",
+        "sentence": "그는 호락호락하지 않은 성격 덕분에 협상에서 항상 유리한 입장에 섰다."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-3-8100401-20250511",
+        "level": "Low",
+        "word": "추락",
+        "definition": "높은 위치에서 낮은 위치로 떨어짐.",
+        "sentence": "비행기가 기체 문제로 급격히 추락하여 산에 충돌했다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-3-8100401-20250511",
+        "level": "Low",
+        "word": "역성장",
+        "definition": "경제 또는 특정 산업이 성장하지 않고 오히려 줄어듦.",
+        "sentence": "세계 경제 위기로 인해 여러 나라가 역성장을 겪고 있다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-3-8100401-20250511",
+        "level": "Low",
+        "word": "불확실성",
+        "definition": "앞날에 대한 확신이 없음. 미래의 상황이나 결과를 예측할 수 없는 상태.",
+        "sentence": "정치적 불확실성은 투자자들에게 더욱 신중함을 요구하게 된다."
+    }
+]

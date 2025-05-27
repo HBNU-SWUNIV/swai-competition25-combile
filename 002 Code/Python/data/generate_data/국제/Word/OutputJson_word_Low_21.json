@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-1-8100401-20250512",
+        "level": "Low",
+        "word": "별세",
+        "definition": "사람이 세상을 떠나서 죽다.",
+        "sentence": "이옥선 할머니가 건강 악화로 별세했습니다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-1-8100401-20250512",
+        "level": "Low",
+        "word": "참상",
+        "definition": "비참하고 끔찍한 상황이나 상태.",
+        "sentence": "이 할머니는 일본군 위안부로 겪은 고초의 참상을 국내외에 알려왔습니다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-1-8100401-20250512",
+        "level": "Low",
+        "word": "촉구",
+        "definition": "어떤 일을 강하게 요구하거나 재촉하다.",
+        "sentence": "이 할머니는 일본의 공식 사죄를 촉구해왔습니다."
+    }
+]

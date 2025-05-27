@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-2-2100311-20250512",
+        "level": "Low",
+        "word": "협상",
+        "definition": "서로 다른 의견이나 입장을 조정하기 위해 토론하고 논의하는 과정.",
+        "sentence": "우리는 문제를 해결하기 위해 협상 테이블에 앉았다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-2-2100311-20250512",
+        "level": "Low",
+        "word": "제시",
+        "definition": "어떤 의견이나 방안 등을 상대에게 보여주거나 이야기하는 것.",
+        "sentence": "교사는 학생들에게 문제 해결 방법을 제시했다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-2-2100311-20250512",
+        "level": "Low",
+        "word": "조율",
+        "definition": "서로 다른 의견이나 입장을 맞춰 조화롭게 만드는 것.",
+        "sentence": "팀원들은 프로젝트 계획을 조율하기 위해 회의를 가졌다."
+    }
+]

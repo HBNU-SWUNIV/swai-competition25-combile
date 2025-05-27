@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-3-1500601-202505111",
+        "level": "Low",
+        "word": "호소",
+        "definition": "사람에게 어떤 일을 간절히 요청하거나 청하는 것.",
+        "sentence": "윤 전 대통령은 '국민께 드리는 호소'라는 제목으로 글을 작성했다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-3-1500601-202505111",
+        "level": "Low",
+        "word": "확장",
+        "definition": "어떤 것을 늘려서 넓히거나 크게 하는 것.",
+        "sentence": "당 입장에서는 중도 확장을 가로막는 심각한 악재라고 했다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-3-1500601-202505111",
+        "level": "Low",
+        "word": "엄숙하다",
+        "definition": "말이나 행동이 조용하고 진지하여 격식을 차린 것처럼 보이는 상태.",
+        "sentence": "양 위원장은 '계엄에 대해 국민에게 엄숙하게 사과해야 한다'고 강조했다."
+    }
+]

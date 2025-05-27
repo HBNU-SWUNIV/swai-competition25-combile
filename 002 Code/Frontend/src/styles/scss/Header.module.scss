@@ -1,0 +1,26 @@
+@use "/src/styles" as style;
+
+.wrapper {
+  @include style.flexColCenter;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background-color: white;
+  height: 80px;
+}
+
+.CenterSection {
+  @include style.flexRowCenter;
+  gap: 40px;
+}
+
+.SearchContainer {
+  @include style.flexRowCenter;
+  background-color: style.$dark0-color;
+  padding: 6px 12px;
+  border-radius: 999px;
+  width: 141px;
+  height: 32px;
+}

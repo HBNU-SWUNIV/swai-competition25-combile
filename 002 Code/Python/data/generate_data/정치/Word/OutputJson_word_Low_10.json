@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-01",
+        "newsId": "N-2-1501201-202505111",
+        "level": "Low",
+        "word": "유세",
+        "definition": "선거에 출마한 사람이 자신을 알리고 지지를 호소하기 위해 하는 활동.",
+        "sentence": "그는 대구를 찾아 첫 유세에 나섰다."
+    },
+    {
+        "wordDefinitionId": "WD-02",
+        "newsId": "N-2-1501201-202505111",
+        "level": "Low",
+        "word": "영입",
+        "definition": "어떤 사람을 자기 편으로 끌어들임.",
+        "sentence": "이 지역 보수 진영의 전·현직 거물급 인사 영입 가능성을 언급한 것이다."
+    },
+    {
+        "wordDefinitionId": "WD-03",
+        "newsId": "N-2-1501201-202505111",
+        "level": "Low",
+        "word": "부상",
+        "definition": "어떤 인물이나 세력 등이 주목받고 높은 위치로 나오게 됨.",
+        "sentence": "최근 이 후보는 보수·중도층의 폭넓은 지지를 받으며 대안 정치세력으로 부상하고 있다."
+    }
+]

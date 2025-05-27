@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-5-1400351-202505122",
+        "level": "Low",
+        "word": "반환",
+        "definition": "다시 되돌려줌.",
+        "sentence": "우리는 이번 사건을 통해 약탈된 문화재의 반환 문제에 대해 많은 것을 배웠습니다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-5-1400351-202505122",
+        "level": "Low",
+        "word": "증거",
+        "definition": "어떤 사실이나 주장을 뒷받침하여 증명할 수 있는 근거가 되는 자료.",
+        "sentence": "약탈의 증거는 명확하였으나, 불상이 정상적으로 거래되었다는 증거는 없었습니다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-5-1400351-202505122",
+        "level": "Low",
+        "word": "정당한",
+        "definition": "논리와 이치에 맞아 올바른.",
+        "sentence": "문화재의 정당한 취득을 입증하지 못한 경우, 원래 국가에 반환하는 것이 국제적 추세입니다."
+    }
+]

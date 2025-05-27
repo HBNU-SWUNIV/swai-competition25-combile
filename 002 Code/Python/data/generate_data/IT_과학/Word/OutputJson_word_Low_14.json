@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "계좌",
+        "definition": "은행과 같은 금융 기관에 돈을 맡기고 인출할 수 있는 계약이나 약속.",
+        "sentence": "A씨는 자신의 계좌가 범죄에 연루됐다는 얘기를 들었다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "이체",
+        "definition": "어떤 계좌에서 다른 계좌로 돈을 보내는 것.",
+        "sentence": "A씨는 거래은행으로 가서 10억원을 이체하였다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "범죄",
+        "definition": "법률에 위반되는 행위나 행동.",
+        "sentence": "최근 카드 배송원을 사칭한 보이스피싱 범죄가 증가하고 있다."
+    }
+]

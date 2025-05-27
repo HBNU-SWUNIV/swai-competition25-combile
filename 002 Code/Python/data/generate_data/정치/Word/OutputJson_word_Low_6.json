@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-1-8100401-202505111",
+        "level": "Low",
+        "word": "내홍",
+        "definition": "내부에서 일어나는 갈등이나 다툼",
+        "sentence": "회사의 내홍을 해결하기 위해 많은 회의를 진행했다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-1-8100401-202505111",
+        "level": "Low",
+        "word": "화합",
+        "definition": "서로 맞추어 하나로 어우러짐, 또는 그렇게 만듦",
+        "sentence": "지역 사회의 화합을 위해 다양한 행사가 열렸다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-1-8100401-202505111",
+        "level": "Low",
+        "word": "봉합",
+        "definition": "갈등이나 상처를 마무리하거나 해결하기 위한 조치",
+        "sentence": "팀 내의 불화를 봉합하는 것이 그의 첫 번째 임무였다."
+    }
+]

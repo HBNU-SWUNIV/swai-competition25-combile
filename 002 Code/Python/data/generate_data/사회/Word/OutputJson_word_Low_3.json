@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-4-1300201-20250512",
+        "level": "Low",
+        "word": "갑질",
+        "definition": "사회적 신분이나 지위를 이용해 다른 사람에게 부당한 대우를 하는 행위.",
+        "sentence": "그 회사의 관리자들은 종종 직원들에게 갑질을 했다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-4-1300201-20250512",
+        "level": "Low",
+        "word": "비위",
+        "definition": "부도덕하고 불법적인 행위.",
+        "sentence": "회사의 비위 행위가 언론에 의해 폭로되었다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-4-1300201-20250512",
+        "level": "Low",
+        "word": "징계",
+        "definition": "잘못된 행동에 대해 벌을 주는 것.",
+        "sentence": "그 직원은 회사 규정을 위반하여 징계를 받았다."
+    }
+]

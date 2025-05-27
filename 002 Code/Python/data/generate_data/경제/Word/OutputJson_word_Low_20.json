@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-2-4101008-20250511",
+        "level": "Low",
+        "word": "자립",
+        "definition": "다른 사람이나 것에 의지하지 않고 혼자서 살아감.",
+        "sentence": "그는 대학 졸업 후 자립할 수 있도록 열심히 준비했다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-2-4101008-20250511",
+        "level": "Low",
+        "word": "형성",
+        "definition": "무엇인가 만들어져서 이루어짐.",
+        "sentence": "청년 자산 형성 지원사업은 미래의 경제적 기반을 만들어주는 목표를 가진다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-2-4101008-20250511",
+        "level": "Low",
+        "word": "만기",
+        "definition": "계약이나 약속, 증서 등이 완료되는 시기.",
+        "sentence": "저축계좌에 돈을 넣고 3년 만기를 기다려 더 많은 적립금을 받았다."
+    }
+]

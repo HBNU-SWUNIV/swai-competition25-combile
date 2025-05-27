@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-5-1400351-20250511",
+        "level": "Low",
+        "word": "자립",
+        "definition": "다른 사람이나 기관의 도움 없이 스스로 생활하거나 일을 꾸려 나가는 것.",
+        "sentence": "우리는 어려운 상황에서도 자립하여 삶을 꾸려나갈 수 있어야 합니다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-5-1400351-20250511",
+        "level": "Low",
+        "word": "제공",
+        "definition": "무엇인가를 남에게 주거나 이용할 수 있게 해주는 것.",
+        "sentence": "회사는 직원들에게 다양한 복지 혜택을 제공하고 있습니다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-5-1400351-20250511",
+        "level": "Low",
+        "word": "창출",
+        "definition": "새로운 것을 처음으로 만들어 내거나 일으키는 것.",
+        "sentence": "정부는 경제 성장을 위해 새로운 일자리를 창출하려고 노력하고 있습니다."
+    }
+]

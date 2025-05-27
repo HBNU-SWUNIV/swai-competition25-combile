@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-1",
+        "newsId": "N-5-4104008-202505112",
+        "level": "Low",
+        "word": "진상규명",
+        "definition": "어떤 사건이나 문제의 실제 상황이나 원인을 명확하게 밝힘.",
+        "sentence": "그들은 문제의 진상규명을 통해 사건에 대한 이해를 높였다."
+    },
+    {
+        "wordDefinitionId": "WD-2",
+        "newsId": "N-5-4104008-202505112",
+        "level": "Low",
+        "word": "외압",
+        "definition": "외부에서 가해지는 압력이나 강요.",
+        "sentence": "조직 내 외압으로 인해 내부 갈등이 발생하며 문제가 커졌다."
+    },
+    {
+        "wordDefinitionId": "WD-3",
+        "newsId": "N-5-4104008-202505112",
+        "level": "Low",
+        "word": "계승",
+        "definition": "이전 세대의 전통이나 가치, 문화를 이어받아 발전시킴.",
+        "sentence": "그들은 조상의 유산을 계승하여 전통 문화를 발전시켰다."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-1-8100401-20250512",
+        "level": "High",
+        "word": "유심",
+        "definition": "유심(USIM)은 'Universal Subscriber Identity Module'의 약자로, 이동통신 가입자의 신원 인증을 위한 칩이다.",
+        "sentence": "유심은 스마트폰에 삽입되어 네트워크 액세스를 가능하게 하는 작은 칩이다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-1-8100401-20250512",
+        "level": "High",
+        "word": "재고",
+        "definition": "재고는 기업의 생산, 유통, 판매 과정에서 보유하고 있는 상품이나 자재를 의미한다.",
+        "sentence": "한때 바닥을 드러냈던 유심 재고가 추가로 공급될 예정이다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-1-8100401-20250512",
+        "level": "High",
+        "word": "무상교체",
+        "definition": "무상교체는 어떠한 비용 없이 기존의 제품이나 부품을 새로운 것으로 교체하는 것을 의미한다.",
+        "sentence": "사용자는 특정 조건을 충족할 경우 유심을 무상으로 교체할 수 있다."
+    }
+]

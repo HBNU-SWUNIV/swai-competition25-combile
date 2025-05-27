@@ -1,0 +1,26 @@
+[
+    {
+        "wordDefinitionId": "WD-001",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "유예",
+        "definition": "특정한 사항을 나중으로 미뤄 두거나 잠시 멈추는 것.",
+        "sentence": "경제 상황이 어려워지면서 많은 사람들이 세금 유예를 요청하고 있다."
+    },
+    {
+        "wordDefinitionId": "WD-002",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "권리행사방해",
+        "definition": "다른 사람의 정당한 권리 행사를 방해하는 행위.",
+        "sentence": "그는 상대방의 계약 권리행사를 방해한 혐의로 재판에 넘겨졌다."
+    },
+    {
+        "wordDefinitionId": "WD-003",
+        "newsId": "N-3-1300201-20250512",
+        "level": "Low",
+        "word": "제적",
+        "definition": "학교에서 학적을 취소하여 학생의 자격을 없앰.",
+        "sentence": "그 학생은 규정을 여러 번 어겨 결국 학교에서 제적당했다."
+    }
+]
